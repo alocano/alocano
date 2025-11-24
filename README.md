@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Althaea Locano!
+
+### About Me:
+I am a Computer Engineering major graduating in May 2026!
+
+### Skills:
+I am familiar with **Java** and **C** but have had some experience with:
+- Web Dev languages such as: HTML, CSS, and React
+- Hardware Development languages (HDLs) such as: Verilog, SystemVerilog, and VHDL
+- and tools such as: Figma, Xilinx Vivado, Multisim
+
+### Misc:
+In my free time, I like to crochet
 
 <!--
 **alocano/alocano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

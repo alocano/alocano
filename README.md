@@ -22,3 +22,17 @@ Plus, Hardware dev. languages & tools such as:
 - Xilinx Vivado
 - Multisim
 - Logisim
+
+Contributions!
+
+- <a href="https://github.com/alocano/PAWD"> Senior Design Project (Software, Embedded Systems)</a>
+
+- <a href="https://github.com/g35k/HandItDown"> Hornet Hacks 3.0 Category Win! (Frontend)</a> 
+
+- <a href="https://github.com/alocano/althaealocano"> Personal Project: Crochet Website (Full Stack)</a>
+
+Class Projects!
+
+- <a href="https://github.com/alocano/ENGR120-Project"> Left, Right, and Center MATLAB Simulation (MATLAB, Signals and Systems/Probability)</a>
+
+- <a href="https://github.com/alocano/Tasty-Tech"> Tasty Tech Food App (Project Management, MERN, agile principles)</a>

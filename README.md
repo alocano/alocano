@@ -1,38 +1,63 @@
+```
+alocano@github: ~$ cat about.txt
 
-## Hi, I'm Althaea! 🧶
 
-### About Me:
-My name is Althaea Locano and I go by any pronouns. I am a Computer Engineering major graduating in May 2026!
+Hello, I am Althaea Locano! I am a computer engineering student from California State University, Sacramento graduating in May 2026!
+I am experienced with programming languages such as Java and C as well as web development languages
+such as HTML, CSS and hardware languages such as VHDL and Verilog. I have additionally used tools such as Figma and
+VSCode for programming and web dev and have some experience with UNIX.
 
-<br><a href="https://www.linkedin.com/in/alocano/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+I also have various experiences in different group sesttings, one of which with scrum methodologies. I have also some
+familiarity with embedded systems, which I hope to use in the future to create accessible medical wearable devices or software.
+```
 
-### Languages & Tools:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br />
-<br />
-Plus, Hardware dev. languages & tools such as:
-- Verilog
-- SystemVerilog
-- VHDL
-- Xilinx Vivado
-- Multisim
-- Logisim
+```
+alocano@github: ~$ ls ~/skills/languages_tools
 
-Contributions!
+Java        C          MATLAB            Python
+HTML        CSS        React             Figma
+Verilog     VHDL       SystemVerilog     Xilinx-Vivado
+Multisim    Logisim    UNIX              Ubuntu
+```
 
-- <a href="https://github.com/alocano/PAWD"> Senior Design Project (Software, Embedded Systems)</a>
+```
+alocano@github: ~$ ls ~/skills/courses
 
-- <a href="https://github.com/g35k/HandItDown"> Hornet Hacks 3.0 Category Win! (Frontend)</a> 
+Embedded-Systems     Electronics     Systems-Attacks      Software-Engineering
+Web-Programming      Logic-Design    Programming-in-UNIX  Operating Systems
+```
 
-- <a href="https://github.com/alocano/althaealocano"> Personal Project: Crochet Website (Full Stack)</a>
+```
+alocano@github: ~$ cat ~/contributions/mainProjects/PAWD/about.txt
 
-Class Projects!
+PAWD
+Parkinson's Assistive Wearable Device/PAWD (Senior Design Project) - a glove to bridge the communication gap between clinicians and
+patients by providing and affordable tool with a simple, accessible UI.
+Hardware: ESP-32 (with Arduino & Python firmware), IMU, Force Sensitive Resistor Display
+Software: Python (Flask), HTML, CSS, JavaScript
+Role & Skills: Software, Embedded Systems
+```
 
-- <a href="https://github.com/alocano/ENGR120-Project"> Left, Right, and Center MATLAB Simulation (MATLAB, Signals and Systems/Probability)</a>
+```
+alocano@github: ~$ cat ~/contributions/mainProjects/HandItDown/about.txt
 
-- <a href="https://github.com/alocano/Tasty-Tech"> Tasty Tech Food App (Project Management, MERN, agile principles)</a>
+HandItDown (Hornet Hacks 3.0, Sustainability Category Win) - a student-run resource exchange service to reduce carbon footprint,
+waste, and financial stress for Sac State students by allowing donation of used materials ranging from textbooks to Arduino Kits
+and affordable access to those materials via a website and exchanges on campus with student volunteers.
+Backend: Python, Supabase
+Frontend: React Vite, Tailwind CSS
+Role: Frontend
+```
+
+```
+alocano@github: ~$ cat ~/contributions/mainProjects/CrochetSite/about.txt
+
+Crochet Site WIP (Personal Full Stack Site) - a personal website to learn basic web development and create an easy way to learn crochet basics
+Frontend: HTML, CSS, JavaScript
+Skills: Full Stack Development
+```
+
+
+```
+alocano@github: ~$ exit
+```

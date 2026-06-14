@@ -1,63 +1,57 @@
-```
-alocano@github: ~$ cat about.txt
+# Hi, I'm Althaea!
+<br><a href="https://www.linkedin.com/in/alocano/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/alocano/](https://alocano.github.io/Althaea-Locano/)" target="_blank">![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
-Hello, I am Althaea Locano! I am a computer engineering student from California State University, Sacramento graduating in May 2026!
-I am experienced with programming languages such as Java and C as well as web development languages
-such as HTML, CSS and hardware languages such as VHDL and Verilog. I have additionally used tools such as Figma and
-VSCode for programming and web dev and have some experience with UNIX.
+# About Me:
+I'm a recent Computer Engineering Graduate from Sacramento State experienced with programming languages such as C, Python, and Java as well as web development languages including HTML, CSS, and JavaScript and hardware languages such as VHDL, Verilog, and SystemVerilog. I have additionally used tools such as Figma and VSCode for programming and web development and some experience with UNIX and Linux with Ubuntu (WSL) for coding and as an Instructional Student Assistant for UNIX Programming.
 
-I also have various experiences in different group sesttings, one of which with scrum methodologies. I have also some
-familiarity with embedded systems, which I hope to use in the future to create accessible medical wearable devices or software.
-```
+I have worked in different group settings through academic projects, improving my skills relating to web dev (SWE principles + Scrum Methodologies) and embedded systems, notably working on assistive tech including wearables.
 
-```
-alocano@github: ~$ ls ~/skills/languages_tools
+In my free time, I enjoy listening to music, playing instruments (guitar, ukulele, bass), and crocheting (currently working on a blanket). I also enjoy watching PWHL and am excited for San Jose's new team!
 
-Java        C          MATLAB            Python
-HTML        CSS        React             Figma
-Verilog     VHDL       SystemVerilog     Xilinx-Vivado
-Multisim    Logisim    UNIX              Ubuntu
-```
+My current personal goals include:
+- learning a new programming language (Rust, C++) or a new tech stack
+- work/contribute to more projects to solidify skills
 
-```
-alocano@github: ~$ ls ~/skills/courses
+# Languages and Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Embedded-Systems     Electronics     Systems-Attacks      Software-Engineering
-Web-Programming      Logic-Design    Programming-in-UNIX  Operating Systems
-```
+Plus, Hardware dev. languages, tools, and protocols such as:
+- Verilog
+- SystemVerilog
+- VHDL
+- Xilinx Vivado
+- Multisim
+- Logisim
+- I2C
+- UART
+# Projects
 
-```
-alocano@github: ~$ cat ~/contributions/mainProjects/PAWD/about.txt
+- <a href="https://github.com/alocano/PAWD"> Parkinson's Assistive Wearable Device - Senior Design Project (Software, Embedded Systems, ESP32, Python, Web Dev)</a>
 
-PAWD
-Parkinson's Assistive Wearable Device/PAWD (Senior Design Project) - a glove to bridge the communication gap between clinicians and
-patients by providing and affordable tool with a simple, accessible UI.
-Hardware: ESP-32 (with Arduino & Python firmware), IMU, Force Sensitive Resistor Display
-Software: Python (Flask), HTML, CSS, JavaScript
-Role & Skills: Software, Embedded Systems
-```
+    The Parkinson's Assistive Wearable Device (PAWD) is an IRB-compliant glove designed to improve clinical workflow by providing real-time feedback during the Unified Parkinson's Disease Rating Scale (UPDRS) assessment, focusing on motor symptoms: finger tapping and pronation-supination. The accompanying web application will provide time stamps from the assessment and graph the data for further analysis.
 
-```
-alocano@github: ~$ cat ~/contributions/mainProjects/HandItDown/about.txt
+- <a href="https://github.com/g35k/HandItDown"> HandItDown -Hornet Hacks 3.0 Category Win! (Frontend, Research)</a> 
 
-HandItDown (Hornet Hacks 3.0, Sustainability Category Win) - a student-run resource exchange service to reduce carbon footprint,
-waste, and financial stress for Sac State students by allowing donation of used materials ranging from textbooks to Arduino Kits
-and affordable access to those materials via a website and exchanges on campus with student volunteers.
-Backend: Python, Supabase
-Frontend: React Vite, Tailwind CSS
-Role: Frontend
-```
+    HandItDown is a student-run material exchange platform that allows fellow students to purchase and donate used textbooks, electronic kits, and other course equipment, reducing waste and costs.  
+HandItDown was created in 48 hours for Hornet Hacks 3.0 and won the Sustainability category, additionally gaining community feedback from a survey with 70+ student responses.
+- <a href="https://github.com/g35k/senso">Senso - Hornet Hacks 4.0 Category Win (Hardware - Raspberry Pi 3, GPIO)</a>
 
-```
-alocano@github: ~$ cat ~/contributions/mainProjects/CrochetSite/about.txt
+    Senso is a tactile device designed to assist visually-impaired pre-adolescent children learn Grade 1 braille with rapid audible feedback. The device syncs with a web application for teachers to monitor lessons.  
+Senso was created in 48 hours for Hornet Hacks 4.0 and won the Open Innovation category, additionally gaining feedback from visually impaired community members.
 
-Crochet Site WIP (Personal Full Stack Site) - a personal website to learn basic web development and create an easy way to learn crochet basics
-Frontend: HTML, CSS, JavaScript
-Skills: Full Stack Development
-```
+Class Projects!
 
+- <a href="https://github.com/alocano/ENGR120-Project"> Left, Right, and Center MATLAB Simulation (MATLAB, Signals and Systems/Probability)</a>
 
-```
-alocano@github: ~$ exit
-```
+- <a href="https://github.com/alocano/Tasty-Tech"> Tasty Tech Food App (Project Management, MERN, agile principles)</a> 

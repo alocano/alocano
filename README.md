@@ -12,7 +12,8 @@ In my free time, I enjoy listening to music, playing instruments (guitar, ukulel
 
 My current personal goals include:
 - learning a new programming language (Rust, C++) or a new tech stack
-- work/contribute to more projects to solidify skills
+- work/contribute to more projects to solidify skills (full-stack, ESP32)
+- explore pcb design
 
 # Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,18 +38,23 @@ Plus, Hardware dev. languages, tools, and protocols such as:
 - UART
 # Projects
 
-- <a href="https://github.com/alocano/PAWD"> Parkinson's Assistive Wearable Device - Senior Design Project (Software, Embedded Systems, ESP32, Python, Web Dev)</a>
+- <a href="https://github.com/alocano/PAWD"> Parkinson's Assistive Wearable Device - Senior Design Project (Wearables, Research, Embedded Systems, ESP32, Python, Web Dev, Project Management)</a>
 
     The Parkinson's Assistive Wearable Device (PAWD) is an IRB-compliant glove designed to improve clinical workflow by providing real-time feedback during the Unified Parkinson's Disease Rating Scale (UPDRS) assessment, focusing on motor symptoms: finger tapping and pronation-supination. The accompanying web application will provide time stamps from the assessment and graph the data for further analysis.
 
+  I assisted with the initial prototype using I2C connection for an OLED display showing UPDRS test selection, and I would later assist with the Python program to transmit and store data between the wearable and the web application. I additionally heavily contributed to the web application by deciding the stack (HTML, CSS, JavaScript frontend with Flask backend) and building the application, making decisions surrounding data flow and UX with clinicians and older users in mind.
+
 - <a href="https://github.com/g35k/HandItDown"> HandItDown -Hornet Hacks 3.0 Category Win! (Frontend, Research)</a> 
 
-    HandItDown is a student-run material exchange platform that allows fellow students to purchase and donate used textbooks, electronic kits, and other course equipment, reducing waste and costs.  
-HandItDown was created in 48 hours for Hornet Hacks 3.0 and won the Sustainability category, additionally gaining community feedback from a survey with 70+ student responses.
-- <a href="https://github.com/g35k/senso">Senso - Hornet Hacks 4.0 Category Win (Hardware - Raspberry Pi 3, GPIO)</a>
+    HandItDown is a student-run material exchange platform that allows fellow students to purchase and donate used textbooks, electronic kits, and other course equipment, reducing waste and costs. HandItDown was created in 48 hours for Hornet Hacks 3.0 and won the Sustainability category, additionally gaining community feedback from a survey with 70+ student responses.
 
-    Senso is a tactile device designed to assist visually-impaired pre-adolescent children learn Grade 1 braille with rapid audible feedback. The device syncs with a web application for teachers to monitor lessons.  
-Senso was created in 48 hours for Hornet Hacks 4.0 and won the Open Innovation category, additionally gaining feedback from visually impaired community members.
+  I contributed to the frontend, using React, Vite, Tailwind CSS, and TypeScript, focusing on UX decisions with students in mind, especially flow as they make purchases.
+  
+- <a href="https://github.com/g35k/senso">Senso - Hornet Hacks 4.0 Category Win (Hardware - Raspberry Pi 3, GPIO, Python)</a>
+
+    Senso is a tactile device designed to assist visually-impaired pre-adolescent children learn Grade 1 braille with rapid audible feedback. The device syncs with a web application for teachers to monitor lessons. Senso was created by a 6-member team in 48 hours for Hornet Hacks 4.0 and won the Open Innovation category, additionally gaining feedback from visually impaired community members.
+
+    I contributed heavily to the hardware, designing the circuit to create a simple device for visually impaired users to understand using a Raspberry Pi, GPIO for buttons, and an external speaker for immediate audio feedback. I additionally assisted another team member with scripting, communicating clearly during debugging and addressing realistic user behaviors (e.g. incorrect input order, no braille cell input).
 
 Class Projects!
 
